@@ -1,0 +1,8 @@
+__pycache__
+.idea
+tiemp.py
+game/database/userData.txt
+game/database/userReward.txt
+game/database/userId.txt
+venv/
+generalVariable/constant.py
